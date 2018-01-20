@@ -1,9 +1,3 @@
-//Name: Akshay Rajshekar Shiraguppi
-//Subject: Computer graphics
-//Professor: Vasantha Kumara BM
-//Class: Computer Science & Engineering-6th sem
-//USN: 1SK12CS003
-//College: Govt.SKSJTI(VTU)
 
 #include <glut.h>		
 #include <string.h>
